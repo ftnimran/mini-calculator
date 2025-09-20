@@ -1,0 +1,15 @@
+body {
+    background-image: url(eddUntitled.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    user-select: none;
+}
+
+.table {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    box-align: center;
+    background-color: #808080;
+    border: 5px solid #00ffff;
+}
